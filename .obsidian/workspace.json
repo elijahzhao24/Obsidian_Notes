@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b0d3ce911d1b2e2",
+        "id": "e0e23e01356b4879",
         "type": "tabs",
         "children": [
           {
-            "id": "58223049c63ce081",
+            "id": "b29afef131827d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "School_Notes/Computer_Networking(CPSC_317)/Lecture_Notes/Design of the Internet (Module 1.1).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -164,9 +164,19 @@
               "icon": "lucide-list",
               "title": "Outline of Design of the Internet (Module 1.1)"
             }
+          },
+          {
+            "id": "db8fefe620910541",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,19 +193,41 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "terminal:Open terminal": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "58223049c63ce081",
+  "active": "b29afef131827d71",
   "lastOpenFiles": [
+    "Untitled.md",
     "School_Notes/Computer_Networking(CPSC_317)/Lecture_Notes/Design of the Internet (Module 1.1).md",
+    "Pasted image 20260512223353.png",
+    "Pasted image 20260512223203.png",
+    "Pasted image 20260512222258.png",
+    "Pasted image 20260512221406.png",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Untitled.base",
     "Excalidraw/Drawing 2026-05-12 20.20.28.excalidraw.md",
     "Excalidraw",
     "hootsuite_logo.jpeg",
     "2026-05-12.md",
     "School_Notes/Computer_Networking(CPSC_317)/Lecture_Notes/DSC03174.jpg",
     "School_Notes/Computer_Networking(CPSC_317)/Lecture_Notes",
-    "Untitled.md",
     "Untitled 1",
     "School_Notes/Computer_Networking(CPSC_317)",
     "School_Notes"
