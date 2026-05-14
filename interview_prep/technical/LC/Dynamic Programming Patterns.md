@@ -28,6 +28,7 @@ Goal: **Maximize total value while total weight <= capacity.**
 
 For a bottom up approach, the way you should think of this is solving every sub problem between 0... n items, and 0...w weight/target. This is where the  **O(number_of_items * capacity)** complexity comes from.
 
+A index like `dp[i][w]` will show the result given we considering all items from 0 .. i, and a max target/weight of w
 
 ### Example: [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)(LC 416)
 
