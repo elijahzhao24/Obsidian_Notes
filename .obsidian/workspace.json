@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b29afef131827d71",
+            "id": "3db0380cd30ff303",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,14 +196,32 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b29afef131827d71",
+  "active": "3db0380cd30ff303",
   "lastOpenFiles": [
-    "Untitled.md",
+    "interview_prep/technical/LC/Dynamic Programming Patterns.md",
+    "Excalidraw/Drawing 2026-05-13 20.58.02.excalidraw.md",
+    "interview_prep/technical/LC/XXYQJ7kP",
+    "pasted_images/Pasted image 20260512221406.png",
     "School_Notes/Computer_Networking(CPSC_317)/Lecture_Notes/Design of the Internet (Module 1.1).md",
-    "Pasted image 20260512223353.png",
-    "Pasted image 20260512223203.png",
-    "Pasted image 20260512222258.png",
-    "Pasted image 20260512221406.png",
+    "pasted_images/Pasted image 20260513212456.png",
+    "Excalidraw/Drawing 2026-05-13 20.58.02.excalidraw 1 1 1.md",
+    "pasted_images/Pasted image 20260513212043.png",
+    "Excalidraw/Drawing 2026-05-13 20.58.02.excalidraw 1 1.md",
+    "Excalidraw/Drawing 2026-05-13 20.58.02.excalidraw 1.md",
+    "pasted_images/Pasted image 20260513211527.png",
+    "pasted_images/Pasted image 20260513211038.png",
+    "Excalidraw/Drawing 2026-05-13 20.57.08.excalidraw.md",
+    "interview_prep/behavioral",
+    "interview_prep/technical/LC/Dynamic_programming",
+    "interview_prep/technical/CF",
+    "interview_prep/technical/LC",
+    "interview_prep/technical",
+    "interview_prep",
+    "Untitled.md",
+    "pasted_images",
+    "pasted_images/Pasted image 20260512223353.png",
+    "pasted_images/Pasted image 20260512223203.png",
+    "pasted_images/Pasted image 20260512222258.png",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -221,15 +239,9 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Untitled.base",
     "Excalidraw/Drawing 2026-05-12 20.20.28.excalidraw.md",
-    "Excalidraw",
     "hootsuite_logo.jpeg",
     "2026-05-12.md",
-    "School_Notes/Computer_Networking(CPSC_317)/Lecture_Notes/DSC03174.jpg",
-    "School_Notes/Computer_Networking(CPSC_317)/Lecture_Notes",
-    "Untitled 1",
-    "School_Notes/Computer_Networking(CPSC_317)",
-    "School_Notes"
+    "School_Notes/Computer_Networking(CPSC_317)/Lecture_Notes/DSC03174.jpg"
   ]
 }
