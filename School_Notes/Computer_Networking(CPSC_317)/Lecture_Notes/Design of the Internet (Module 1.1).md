@@ -53,7 +53,7 @@ Requirements:
 
 In a switched network, devices do not all need direct links to each other. Instead, they connect through switching devices.
 
-![](pasted_images/Pasted%20image%2020260512221406.png)
+![](../../../pasted_images/Pasted%20image%2020260512221406.png)
 
 This means multiple devices or data flows share the same network infrastructure.
 > How can multiple conversations share the same medium without getting mixed up?
@@ -77,7 +77,7 @@ Based on creating a **dedicated path** between source and destination before com
 ###### Call analogy with Alice and Bob.
 Before Alice talks to Bob, the network establishes a fixed path through the switches. That path stays reserved for the connection and other users can't use the reserved capacity during the call.
 
-![](pasted_images/Pasted%20image%2020260512222258.png)
+![](../../../pasted_images/Pasted%20image%2020260512222258.png)
 #### Properties
 
 **Dedicated path**
@@ -101,7 +101,7 @@ Since many users may need to share the same physical link, circuit switching sti
 - each call gets its own frequency band
 - each call can transmit at the maximum rate of that narrow band
 
-![](pasted_images/Pasted%20image%2020260512223203.png)
+![](../../../pasted_images/Pasted%20image%2020260512223203.png)
  
 ###### Time Division Multiplexing, TDM
 - time is divided into slots
@@ -109,7 +109,7 @@ Since many users may need to share the same physical link, circuit switching sti
 
 Think of users taking turns very quickly.
 
-![](pasted_images/Pasted%20image%2020260512223353.png)
+![](../../../pasted_images/Pasted%20image%2020260512223353.png)
 
 ###### Code Division Multiplexing
 
