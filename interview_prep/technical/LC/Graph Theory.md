@@ -1,6 +1,5 @@
 
 
-
 # Hierholzer's Algorithm (finding Eulerian Path)
 
 #### Data structures:
